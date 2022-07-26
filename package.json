@@ -9,12 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@chakra-ui/react": "^2.2.4",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@hookform/resolvers": "^2.9.6",
+    "apexcharts": "^3.35.3",
+    "axios": "^0.27.2",
+    "framer-motion": "^6.5.1",
     "next": "12.2.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-apexcharts": "^1.4.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.33.1",
+    "react-icons": "^4.4.0",
+    "react-query": "^3.39.2",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "@types/node": "^18.0.6",
+    "@types/react": "^18.0.15",
     "eslint": "8.20.0",
-    "eslint-config-next": "12.2.2"
+    "eslint-config-next": "12.2.2",
+    "miragejs": "^0.1.45",
+    "typescript": "^4.7.4"
   }
 }
